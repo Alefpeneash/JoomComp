@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension type="component" versio="3.3" method="upgrade">
+	<name>Relations</name>
+	<description>Relations description</description>
+	 
+	<files folder="site">
+		<folder>models</folder>
+		<folder>views</folder>
+
+		<filename>relations.php</filename>
+		<filename>controller.php</filename>
+	</files>
+</extension>
